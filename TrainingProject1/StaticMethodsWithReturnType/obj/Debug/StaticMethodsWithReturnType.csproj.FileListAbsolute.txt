@@ -1,0 +1,4 @@
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\StaticMethodsWithReturnType\bin\Debug\StaticMethodsWithReturnType.exe
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\StaticMethodsWithReturnType\bin\Debug\StaticMethodsWithReturnType.pdb
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\StaticMethodsWithReturnType\obj\Debug\StaticMethodsWithReturnType.exe
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\StaticMethodsWithReturnType\obj\Debug\StaticMethodsWithReturnType.pdb

@@ -1,0 +1,4 @@
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\Arrays\bin\Debug\Arrays.dll
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\Arrays\bin\Debug\Arrays.pdb
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\Arrays\obj\Debug\Arrays.dll
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\Arrays\obj\Debug\Arrays.pdb

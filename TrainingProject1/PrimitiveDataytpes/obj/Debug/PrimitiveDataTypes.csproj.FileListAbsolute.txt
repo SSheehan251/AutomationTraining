@@ -1,0 +1,4 @@
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\PrimitiveDataytpes\bin\Debug\PrimitiveDataytpes.dll
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\PrimitiveDataytpes\bin\Debug\PrimitiveDataytpes.pdb
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\PrimitiveDataytpes\obj\Debug\PrimitiveDataytpes.dll
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\PrimitiveDataytpes\obj\Debug\PrimitiveDataytpes.pdb

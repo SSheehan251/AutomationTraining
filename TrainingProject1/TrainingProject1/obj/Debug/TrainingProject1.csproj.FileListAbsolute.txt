@@ -1,0 +1,4 @@
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\TrainingProject1\bin\Debug\TrainingProject1.dll
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\TrainingProject1\bin\Debug\TrainingProject1.pdb
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\TrainingProject1\obj\Debug\TrainingProject1.dll
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\TrainingProject1\obj\Debug\TrainingProject1.pdb

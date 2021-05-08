@@ -1,0 +1,4 @@
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\StaticFunctionsWithoutReturnType\bin\Debug\StaticFunctionsWithoutReturnType.exe
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\StaticFunctionsWithoutReturnType\bin\Debug\StaticFunctionsWithoutReturnType.pdb
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\StaticFunctionsWithoutReturnType\obj\Debug\StaticFunctionsWithoutReturnType.exe
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\StaticFunctionsWithoutReturnType\obj\Debug\StaticFunctionsWithoutReturnType.pdb

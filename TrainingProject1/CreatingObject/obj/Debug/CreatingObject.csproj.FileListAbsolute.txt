@@ -1,0 +1,5 @@
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\CreatingObject\bin\Debug\CreatingObject.exe
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\CreatingObject\bin\Debug\CreatingObject.pdb
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\CreatingObject\obj\Debug\CreatingObject.csprojAssemblyReference.cache
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\CreatingObject\obj\Debug\CreatingObject.exe
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\CreatingObject\obj\Debug\CreatingObject.pdb
