@@ -1,0 +1,5 @@
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\UserDefinedDataTypes\obj\Debug\HasARelationship.csprojAssemblyReference.cache
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\UserDefinedDataTypes\bin\Debug\UserDefinedDataTypes.exe
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\UserDefinedDataTypes\bin\Debug\UserDefinedDataTypes.pdb
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\UserDefinedDataTypes\obj\Debug\UserDefinedDataTypes.exe
+C:\Users\sinead.sheehan\OneDrive - Donseed UK Ltd\Desktop\C#BasicsProgamming\TrainingProject1\UserDefinedDataTypes\obj\Debug\UserDefinedDataTypes.pdb
